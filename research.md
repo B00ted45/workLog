@@ -15,4 +15,4 @@ basic info
 https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7\
 
 
-https://www.squidindustries.co/
+https://www.youtube.com/watch?v=tooddaC14q4&ab_channel=MadhavThaker
